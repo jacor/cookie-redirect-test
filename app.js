@@ -1,7 +1,7 @@
 var express = require('express')
 var cookieParser = require('cookie-parser')
-var port = process.env.PORT | 3000
-
+var port = process.env.PORT || 5000 
+  
 var app = express()
 app.use(cookieParser())
 

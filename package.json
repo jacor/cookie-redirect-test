@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.3",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "foreman": "2.0.0"
   }
 }
